@@ -6,7 +6,7 @@ This GitHub profile is a practical archive where I document investigations, scri
 
 ### My Active Profiles
 [![TryHackMe](https://img.shields.io/badge/TryHackMe-Profile-red?style=for-the-badge)](https://tryhackme.com/p/adam.hall1)
-[![LetsDefend](https://img.shields.io/badge/LetsDefend-Profile-blue?style=for-the-badge&logo=security)](https://app.letsdefend.io/user/HackTheElf))
+[![LetsDefend](https://img.shields.io/badge/LetsDefend-Profile-blue?style=for-the-badge&logo=security)](https://app.letsdefend.io/user/HackTheElf)
 
 ### Learning Paths & Certifications
 * [TryHackMe: SOC Level 1 Certification](https://tryhackme-certificates.s3-eu-west-1.amazonaws.com/THM-OGF7QUJWDP.pdf)
