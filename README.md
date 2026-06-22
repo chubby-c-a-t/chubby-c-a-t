@@ -3,8 +3,8 @@
 I am a cybersecurity student actively developing my foundational skills, with a strong focus on Tier 1 SOC operations, log analysis, and SIEM data ingestion. 
 
 This GitHub profile is a practical archive where I document investigations, script development, and am hoping to eventually contribute homelab experiments.
----
-[![TryHackMe](https://img.shields.io/badge/TryHackMe-Profile-red?style=for-the-badge)](https://tryhackme.com/p/adam.hall1)
+
+# [![TryHackMe](https://img.shields.io/badge/TryHackMe-Profile-red?style=for-the-badge)](https://tryhackme.com/p/adam.hall1)
 
 ### Learning Paths & Certifications
 * [TryHackMe: SOC Level 1 Certification](https://tryhackme-certificates.s3-eu-west-1.amazonaws.com/THM-OGF7QUJWDP.pdf)
