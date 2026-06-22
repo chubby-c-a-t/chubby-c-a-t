@@ -6,7 +6,13 @@ This GitHub profile is a practical archive where I document investigations, scri
 
 ### My Active Profiles
 [![TryHackMe](https://img.shields.io/badge/TryHackMe-Profile-red?style=for-the-badge)](https://tryhackme.com/p/adam.hall1)
-[![LetsDefend](https://img.shields.io/badge/LetsDefend-Profile-blue?style=for-the-badge&logo=security)](https://app.letsdefend.io/user/profile/chubby-c-a-t)
+[![LetsDefend](https://img.shields.io/badge/LetsDefend-Profile-blue?style=for-the-badge&logo=security)]([https://app.letsdefend.io/user/profile/chubby-c-a-t](https://app.letsdefend.io/user/HackTheElf))
 
-### Completed Room Certifications
-<img src="https://assets.tryhackme.com/room-badges/97ada37370e22eec702dfb384425e91a.png" width="150" alt="TryHackMe Room Badge 1"> <img src="https://assets.tryhackme.com/room-badges/bc36076b8b65487736f21603fb5b7205.png" width="150" alt="TryHackMe Room Badge 2">
+### Learning Paths & Certifications
+* [TryHackMe: SOC Level 1 Certification](https://tryhackme-certificates.s3-eu-west-1.amazonaws.com/THM-OGF7QUJWDP.pdf)
+* [TryHackMe: SOC Level 2 Certification](https://tryhackme-certificates.s3-eu-west-1.amazonaws.com/THM-KCOGJQGG9D.pdf)
+
+### Core Competency Badges
+<img src="https://assets.tryhackme.com/room-badges/d3eeca475e61fb3030ec09ba076a4209.png" width="150" alt="Boogeyman Slayer Capstone"> <img src="https://assets.tryhackme.com/room-badges/7ab670379d0306a519695dabd7cb9843.png" width="150" alt="Splunking Badge"> 
+<br>
+<img src="https://assets.tryhackme.com/room-badges/9bf56fcbebe4d78ad9a089ae9b5c3860.png" width="150" alt="Wireshark Badge"> <img src="https://assets.tryhackme.com/room-badges/5526e4eb914ef6cf67ffeee95be6e448.png" width="150" alt="Malware Analysis Badge">
