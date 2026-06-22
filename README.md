@@ -1,4 +1,4 @@
-# Hi, I'm Adam. 👋
+# Introduction
 
 I am a cybersecurity student actively developing my foundational skills, with a strong focus on Tier 1 SOC operations, log analysis, and SIEM data ingestion. 
 
