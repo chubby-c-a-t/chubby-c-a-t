@@ -5,5 +5,5 @@ I am a cybersecurity student actively developing my foundational skills, with a 
 This GitHub profile is a practical archive where I document investigations, script development, and am hoping to eventually contribute homelab experiments.
 
 ### My Active Platforms
-[![TryHackMe](https://tryhackme-badges.s3.amazonaws.com/adam.hall1.png)](https://tryhackme.com/p/adam.hall1)
+[![TryHackMe](https://tryhackme-badges.s3.amazonaws.com/adam.hall1.png?cache-control=no-cache)](https://tryhackme.com/p/adam.hall1)
 [![LetsDefend](https://img.shields.io/badge/LetsDefend-Profile-blue?style=for-the-badge&logo=security)](https://app.letsdefend.io/user/HackTheElf)
