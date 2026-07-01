@@ -11,6 +11,7 @@ This GitHub profile is a practical archive where I document investigations, scri
 **Level 1: Foundations**
 * [TryHackMe: SOC Level 1 Certification](https://tryhackme-certificates.s3-eu-west-1.amazonaws.com/THM-OGF7QUJWDP.pdf)
 * [LetsDefend: SOC Level 1 Certification](https://app.letsdefend.io/certificate/show/e6c38095-f77c-4198-be56-6cab568ca53b)
+* [LetsDefend: Web Attack Detection and Analysis Certification](https://app.letsdefend.io/certificate/show/21973e34-4996-4bfb-bbaf-e24045fbbb27)
 
 **Level 2: Advanced**
 * [TryHackMe: SOC Level 2 Certification](https://tryhackme-certificates.s3-eu-west-1.amazonaws.com/THM-KCOGJQGG9D.pdf)
