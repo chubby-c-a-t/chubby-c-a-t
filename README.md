@@ -9,12 +9,13 @@ This GitHub profile is a practical archive where I document investigations, scri
 ### Learning Paths & Certifications
 
 **Level 1: Foundations**
-* [TryHackMe: SOC Level 1 Certification](https://tryhackme-certificates.s3-eu-west-1.amazonaws.com/THM-OGF7QUJWDP.pdf)
-* [LetsDefend: SOC Level 1 Certification](https://app.letsdefend.io/certificate/show/e6c38095-f77c-4198-be56-6cab568ca53b)
-* [LetsDefend: Web Attack Detection and Analysis Certification](https://app.letsdefend.io/certificate/show/21973e34-4996-4bfb-bbaf-e24045fbbb27)
+* [TryHackMe: SOC Level 1](https://tryhackme-certificates.s3-eu-west-1.amazonaws.com/THM-OGF7QUJWDP.pdf)
+* [LetsDefend: SOC Level 1](https://app.letsdefend.io/certificate/show/e6c38095-f77c-4198-be56-6cab568ca53b)
+* [LetsDefend: Web Attack Detection](https://app.letsdefend.io/certificate/show/21973e34-4996-4bfb-bbaf-e24045fbbb27)
+* [LetsDefend: Malware Analysis](https://app.letsdefend.io/certificate/show/a1dede85-3ce2-4d6b-aae7-522ba2399d98)
 
 **Level 2: Advanced**
-* [TryHackMe: SOC Level 2 Certification](https://tryhackme-certificates.s3-eu-west-1.amazonaws.com/THM-KCOGJQGG9D.pdf)
+* [TryHackMe: SOC Level 2](https://tryhackme-certificates.s3-eu-west-1.amazonaws.com/THM-KCOGJQGG9D.pdf)
 
 ### Core Competency Badges
 <img src="https://assets.tryhackme.com/room-badges/d3eeca475e61fb3030ec09ba076a4209.png" width="150" alt="Boogeyman Slayer Capstone"> <img src="https://assets.tryhackme.com/room-badges/7ab670379d0306a519695dabd7cb9843.png" width="150" alt="Splunking Badge"> 
