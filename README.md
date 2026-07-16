@@ -16,6 +16,7 @@ This GitHub profile is a practical archive where I document investigations, scri
 
 **Level 2: Advanced**
 * [TryHackMe: SOC Level 2](https://tryhackme-certificates.s3-eu-west-1.amazonaws.com/THM-KCOGJQGG9D.pdf)
+* [TryHackMe: Advanced Endpoint Investigations](https://tryhackme-certificates.s3-eu-west-1.amazonaws.com/THM-ATWN2MUWWX.pdf)
 * [LetsDefend: Incident Responder](https://app.letsdefend.io/certificate/show/09d3b692-b6f9-4460-b14a-d83e7df4bf4b)
 
 ### Core Competency Badges
