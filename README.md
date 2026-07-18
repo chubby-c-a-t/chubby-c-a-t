@@ -33,3 +33,8 @@ This GitHub profile is a practical archive where I document investigations, scri
 <a href="https://app.letsdefend.io/my-rewards/detail/c76be16b-2814-4768-80cd-330852dd5e86">
   <img src="https://github.com/chubby-c-a-t/chubby-c-a-t/blob/main/hunter-2.png?raw=true" width="400" alt="LetsDefend Hunter Badge 2">
 </a>
+<br>
+<br>
+<a href="https://app.letsdefend.io/my-rewards/detail/003359d1d8f340c99512e4079a922569">
+  <img src="https://github.com/chubby-c-a-t/chubby-c-a-t/blob/main/hunter-3.png?raw=true" width="400" alt="LetsDefend Hunter Badge 2">
+</a>
