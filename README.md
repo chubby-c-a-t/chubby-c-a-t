@@ -20,7 +20,7 @@ This GitHub profile is a practical archive where I document investigations, scri
 * [LetsDefend: Incident Responder](https://app.letsdefend.io/certificate/show/09d3b692-b6f9-4460-b14a-d83e7df4bf4b)
 
 **Practical Experience & Milestones**
-* LetsDefend Capstone Project: Investigated and formally documented 100% of all SOC Level 1 Incidents:
+LetsDefend Capstone Project: Investigated and formally documented 100% of all SOC Level 1 Incidents:
 * [LetsDefend: Investigated Every SOC Level 1 Incident Certificate](https://app.letsdefend.io/certificate/show/0d1caced-5bdf-4794-8f5c-6bdf3f20489c)
 * https://github.com/chubby-c-a-t/soc-alert-investigations
 
