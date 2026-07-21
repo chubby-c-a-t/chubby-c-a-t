@@ -21,11 +21,12 @@ This GitHub profile is a practical archive where I document investigations, scri
 
 **Practical Experience & Milestones**
 <br>
-LetsDefend Capstone Project: 
+LetsDefend Capstone Project: Comprehensive Incident Triage
 <br>
-Investigated and formally documented 100% of all SOC Level 1 Incidents:
+Successfully investigated and formally documented 100% of all SOC Level 1 alerts on the platform.
+<br>
 * [LetsDefend: Investigated Every SOC Level 1 Incident Certificate](https://app.letsdefend.io/certificate/show/0d1caced-5bdf-4794-8f5c-6bdf3f20489c)
-* https://github.com/chubby-c-a-t/soc-alert-investigations
+* [GitHub Repository: SOC Alert Investigations](https://github.com/chubby-c-a-t/soc-alert-investigations)
 
 ### Core Competency Badges
 <img src="https://assets.tryhackme.com/room-badges/d3eeca475e61fb3030ec09ba076a4209.png" width="150" alt="Boogeyman Slayer Capstone"> <img src="https://assets.tryhackme.com/room-badges/7ab670379d0306a519695dabd7cb9843.png" width="150" alt="Splunking Badge"> 
