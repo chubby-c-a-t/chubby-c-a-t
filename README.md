@@ -19,7 +19,7 @@ This GitHub profile is a practical archive where I document investigations, scri
 * [TryHackMe: Advanced Endpoint Investigations](https://tryhackme-certificates.s3-eu-west-1.amazonaws.com/THM-ATWN2MUWWX.pdf)
 * [LetsDefend: Incident Responder](https://app.letsdefend.io/certificate/show/09d3b692-b6f9-4460-b14a-d83e7df4bf4b)
 
-**Supplementry Skills: Automation**
+**Supplementary Skills:**
 * [Boot.dev: Introduction to Python (Data structures, Dictionaries, Sets, and Error Handling)](https://www.boot.dev/certificates/62f8d2e7-c9ef-499f-9bec-7c65b38b7cda)
 
 **Practical Experience & Milestones**
