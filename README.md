@@ -8,9 +8,11 @@ This GitHub profile is a practical archive where I document investigations, scri
 
 * [Microsoft Certified: Security Operations Analyst Associate](https://learn.microsoft.com/api/credentials/share/en-us/Adam-9090/5FDE1F0A3568109D?sharingId=495E3EF687529DE8)
 
+---
+
 ### Learning Paths & Practical Training
 
-# [![TryHackMe](https://img.shields.io/badge/TryHackMe-Profile-red?style=for-the-badge)](https://tryhackme.com/p/adam.hall1)
+[![TryHackMe](https://img.shields.io/badge/TryHackMe-Profile-red?style=for-the-badge)](https://tryhackme.com/p/adam.hall1)
 
 **Level 1: Foundations**
 * [TryHackMe: SOC Level 1](https://tryhackme-certificates.s3-eu-west-1.amazonaws.com/THM-OGF7QUJWDP.pdf)
