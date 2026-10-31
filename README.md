@@ -1,12 +1,16 @@
 # Introduction
 
-I am a cybersecurity student actively developing my foundational skills, with a strong focus on Tier 1 SOC operations, log analysis, and SIEM data ingestion. 
+I am an aspiring SOC analyst developing practical experience in security monitoring, incident investigation, log analysis, and SIEM implementation.
 
-This GitHub profile is a practical archive where I document investigations, script development, and am hoping to eventually contribute homelab experiments.
+This GitHub profile is a practical archive where I document investigations, script development, homelab projects, and study resources.
+
+### Certification
+
+* [Microsoft Certified: Security Operations Analyst Associate](https://learn.microsoft.com/api/credentials/share/en-us/Adam-9090/5FDE1F0A3568109D?sharingId=495E3EF687529DE8)
+
+### Learning Paths & Practical Training
 
 # [![TryHackMe](https://img.shields.io/badge/TryHackMe-Profile-red?style=for-the-badge)](https://tryhackme.com/p/adam.hall1)
-
-### Learning Paths & Certifications
 
 **Level 1: Foundations**
 * [TryHackMe: SOC Level 1](https://tryhackme-certificates.s3-eu-west-1.amazonaws.com/THM-OGF7QUJWDP.pdf)
